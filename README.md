@@ -23,4 +23,4 @@ AWS S3 · Apache Kafka · OPC UA · TensorFlow · OpenCV
 - `simulations/computer_vision_sim.py` — paint shop defect detection
 
 ## Full Report
-See `report/Case_Study_Production_Systems.pdf`
+See `Case_Study_Production_Systems.pdf`
