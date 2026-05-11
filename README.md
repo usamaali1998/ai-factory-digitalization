@@ -1,7 +1,7 @@
 # AI-Driven Factory Digitalization — Aira Heat Pump Manufacturing
 > Case Study | Industry 4.0 | Computer Vision | Predictive Maintenance
 
-Master's project at Deggendorf Institute of Technology (2025)
+Master's Subject project at Deggendorf Institute of Technology (2025)
 
 ## Overview
 Designed an AI digitalization roadmap for a heat pump factory 
